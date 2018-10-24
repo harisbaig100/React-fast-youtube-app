@@ -1,2 +1,25 @@
-# fast-youtube-clone
-Hi, folks this is the mini youtube clone written in REACT for experimenting and educational purpose, this dynamic system is using youtube-api-search to get data and display the data dynamically according to the search term given in the search bar, if you are a react learner it will be fun for you to explore how different libraries work with react to deliver such functionalities, just change the youtube API-KEY in the project and optionally you can change default search term.
+# ReduxSimpleStarter
+
+Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+
+### Getting Started
+
+There are two methods for getting started with this repo.
+
+#### Familiar with Git?
+Checkout this repo, install dependencies, then start the gulp process with the following:
+
+```
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd ReduxSimpleStarter
+> npm install
+> npm start
+```
+
+#### Not Familiar with Git?
+Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+> npm install
+> npm start
+```
