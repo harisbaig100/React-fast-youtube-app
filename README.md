@@ -1,6 +1,7 @@
-# React-fast-youtube-app
-
 ![alt text](https://github.com/harisbaig100/React-fast-youtube-app/blob/master/Screen%20Shot%202018-10-24%20at%205.58.49%20PM.png)
+
+
+# React-fast-youtube-app
 
 Interested in learning React and redux concepts
 
