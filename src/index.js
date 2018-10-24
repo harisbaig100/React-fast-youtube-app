@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyA53ACK7h9aWkof_k4dyJXZr9vw2jSJhQo';
+const API_KEY = 'ENTER YOUR YOUTUBE API KEY';
 
 // Component which produces HTML
 
@@ -19,7 +19,7 @@ class App extends Component {
              videos: [],
              selectedVideo: null
             };
-        this.videoSearch('');
+        this.videoSearch('HOW BIG IS THE UNIVERSE');
     }
 
     videoSearch(term) {
