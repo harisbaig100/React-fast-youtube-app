@@ -1,0 +1,2 @@
+# fast-youtube-clone
+Hi, folks this is the mini youtube clone written in REACT for experimenting and educational purpose, this dynamic system is using youtube-api-search to get data and display the data dynamically according to the search term given in the search bar, if you are a react learner it will be fun for you to explore how different libraries work with react to deliver such functionalities, just change the youtube API-KEY in the project and optionally you can change default search term.
