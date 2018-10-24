@@ -1,4 +1,4 @@
-# fast-youtube-clone
+# React-fast-youtube-clone
 
 Interested in learning React and redux concepts
 
