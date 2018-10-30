@@ -1,15 +1,15 @@
 {
-  "name": "redux-simple-starter",
+  "name": "React-fast-youtube-appr",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "this dynamic system is using youtube-api-search to get data and display it according to the search term given in the search bar",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": "git@github.com:harisbaig100/React-fast-youtube-app.git", 
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "M.Haris Baig",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
