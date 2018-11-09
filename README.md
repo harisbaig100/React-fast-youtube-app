@@ -3,7 +3,7 @@
 
 # React-fast-youtube-app
 
-Interested in learning React and redux concepts
+To start and explore how different libraries work with react to deliver such functionalities, Clone or download it, install npm dependencies and just change the youtube API-KEY in the src/index.js file. You can also change default search term there in constructor function of App component, passing the term as a string to videoSearch() function.
 
 ### Getting Started
 
